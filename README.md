@@ -1,17 +1,19 @@
 # aws
-<h1>JWipe - Disk Sanitization</h1>
+<h1>AWS Identity and Access Management (IAM)     </h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [Certificate](https://coursera.org/share/98390fc86f152bb5fceeb1d51b949530)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Enabling Cross account access, to create an Identity provider and to access AWS account via AWS CLI.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Skills Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>AWS associate</b> 
+- <b>Cloud developers</b> 
+- <b>DevOps admin</b> 
+- <b>AWS Cloud admin</b>
 
 <h2>Environments Used </h2>
 
